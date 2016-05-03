@@ -10,7 +10,7 @@ RUN apt-get -q -y update && \
                           attr \
                           autoconf \
                           bison \
-                          build-essential   \
+                          build-essential \
                           debhelper \
                           dnsutils \
                           docbook-xml \
