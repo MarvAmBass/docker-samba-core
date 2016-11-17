@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-ENV samba_version 4.5.0
+ENV samba_version 4.5.1
 
 ENV DEBIAN_FRONTEND noninteractive
 RUN apt-get -q -y update && \
